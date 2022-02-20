@@ -1,0 +1,1 @@
+Dockerfile лежит в папке task3
